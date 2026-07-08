@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodlib.a CMakeFiles/modlib.dir/src/modlib.cpp.o
+/usr/bin/ranlib libmodlib.a

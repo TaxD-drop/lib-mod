@@ -1,0 +1,5 @@
+/home/spx/Documentos/lib-mod/build/CMakeFiles/modlib.dir
+/home/spx/Documentos/lib-mod/build/CMakeFiles/loader.dir
+/home/spx/Documentos/lib-mod/build/CMakeFiles/example_mod.dir
+/home/spx/Documentos/lib-mod/build/CMakeFiles/edit_cache.dir
+/home/spx/Documentos/lib-mod/build/CMakeFiles/rebuild_cache.dir
